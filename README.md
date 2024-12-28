@@ -1,3 +1,2 @@
-# workintech-js-elektrikli-araba-cekilisi
+# Workintech JS Elektrikli Araba Çekilişi
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/ersinonline/workintech-js-elektrikli-araba-cekilisi)
